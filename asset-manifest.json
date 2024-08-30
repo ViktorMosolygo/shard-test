@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/ViktorMosolygo.github.io/shard-test/static/js/main.9dfdb49f.js",
+    "static/media/shard_logo_invers.svg": "/ViktorMosolygo.github.io/shard-test/static/media/shard_logo_invers.d97b6624e208519ee1477043891fad0c.svg",
+    "static/media/white_shard_logo.svg": "/ViktorMosolygo.github.io/shard-test/static/media/white_shard_logo.df095e57cf59c68ab78e7e53fad4d561.svg",
+    "static/media/card_blue_bg.svg": "/ViktorMosolygo.github.io/shard-test/static/media/card_blue_bg.2372ab5bcc504369f4a2bf462860f7b6.svg",
+    "index.html": "/ViktorMosolygo.github.io/shard-test/index.html",
+    "static/media/card_white_bg.svg": "/ViktorMosolygo.github.io/shard-test/static/media/card_white_bg.d49d4987cb629b356f5276e57a5d9161.svg",
+    "main.9dfdb49f.js.map": "/ViktorMosolygo.github.io/shard-test/static/js/main.9dfdb49f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9dfdb49f.js"
+  ]
+}

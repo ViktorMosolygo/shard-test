@@ -146,7 +146,7 @@ const Header = () => {
     <HeaderWrapper>
       <Logo><img src={shardLogo} alt="Shard Logo" style={{ height: "38px" }}/></Logo>
       <Nav>
-        <NavLink href="/">Holiday homes</NavLink>
+        <NavLink href="/#">Holiday homes</NavLink>
         <NavLink href="/#">Learn</NavLink>
         <NavLink href="/#">About us</NavLink>
         <NavLink href="/#">Contact</NavLink>
